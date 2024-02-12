@@ -14,7 +14,11 @@ const onClose = () => {
 }
 
   return (
-    <div className="App">
+    <div className="App"> 
+      <select>
+        <label for='GameName'>Game name</label>
+        <option placeholder='Game name' name='GameName'></option>
+      </select>
       <button onClick={onClose}>Закрыть</button>
     </div>
   );
