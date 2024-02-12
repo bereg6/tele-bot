@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tele-bot/static/css/main.980e849d.css",
+    "main.js": "/tele-bot/static/js/main.734cac00.js",
+    "static/js/787.1ccd8b7a.chunk.js": "/tele-bot/static/js/787.1ccd8b7a.chunk.js",
+    "index.html": "/tele-bot/index.html",
+    "main.980e849d.css.map": "/tele-bot/static/css/main.980e849d.css.map",
+    "main.734cac00.js.map": "/tele-bot/static/js/main.734cac00.js.map",
+    "787.1ccd8b7a.chunk.js.map": "/tele-bot/static/js/787.1ccd8b7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.980e849d.css",
+    "static/js/main.734cac00.js"
+  ]
+}
