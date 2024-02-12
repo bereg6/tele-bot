@@ -16,8 +16,8 @@ const onClose = () => {
   return (
     <div className="App"> 
       <select>
-        <label for='GameName'>Game name</label>
-        <option placeholder='Game name' name='GameName'></option>
+        {/* <label for='GameName'>Game name</label> */}
+        <option value='gameName'>Game name</option>
       </select>
       <button onClick={onClose}>Закрыть</button>
     </div>
